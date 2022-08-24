@@ -1,6 +1,7 @@
-## Node_js_first_project
+## sMarket
 
-Implemented the backend.<br/>
+Simple app for selling personal objects (beginner project). <br/>
+My task was to implement the backend according to what i've learned.<br/>
 Frontend was cloned from: [Source](https://github.com/OpenClassrooms-Student-Center/go-fullstack-fr-frontend)
 
 ## Lang
